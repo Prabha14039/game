@@ -1,0 +1,4 @@
+/home/prabha03/Desktop/game/build/CMakeFiles/glad.dir
+/home/prabha03/Desktop/game/build/CMakeFiles/MyGameProject.dir
+/home/prabha03/Desktop/game/build/CMakeFiles/edit_cache.dir
+/home/prabha03/Desktop/game/build/CMakeFiles/rebuild_cache.dir
